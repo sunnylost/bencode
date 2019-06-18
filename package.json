@@ -1,0 +1,8 @@
+{
+  "name": "bencode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sunnylost/bencode.git",
+  "author": "sunnylost <sunnylost@gmail.com>",
+  "license": "MIT"
+}
